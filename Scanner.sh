@@ -18,5 +18,5 @@ echo "Catatan :"
 echo "Apabila terdapat Virus atau Junk File maka akan otomatis di hapus"
 echo "================================="
  
-echo "Copyright (c) 2017 By RikiOktopan"
+echo "Copyright (c) 2017 By Azis-OlLenk"
 echo "================================="
